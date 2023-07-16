@@ -20,5 +20,3 @@ do
 	curl -s "$app" | bash
 done
 
-curl -s "" | bash
-curl -o-  | bash
