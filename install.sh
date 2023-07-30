@@ -1,7 +1,7 @@
 #!/bin/bash
 
 init=("update" "upgrade")
-applications=("neofetch" "gnome-tweaks" "code" "vlc" "google-chrome-stable")
+applications=("transmission" "neofetch" "gnome-tweaks" "code" "vlc" "google-chrome-stable")
 curlApplications=( "https://get.sdkman.io" "https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh" )
 
 
